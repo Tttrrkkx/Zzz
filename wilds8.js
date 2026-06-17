@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0.7
 // @description  Clean version of Visca Tools for Discord Quests & Tokens
-// @author       You
+// @author       TRK
 // @match        https://discord.com/*
 // @run-at       document-idle
 // @grant        none

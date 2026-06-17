@@ -7,7 +7,7 @@
 // @match        *://discord.com/*
 // @run-at       document-idle
 // @grant        none
-// @require      https://cdn.jsdelivr.net/gh/Tttrrkkx/trok_tools@main/ViscaTools.js
+// @require      https://cdn.jsdelivr.net/gh/Tttrrkkx/Zzz@main/ViscaTools.js
 // ==/UserScript==
 
 (function() {
